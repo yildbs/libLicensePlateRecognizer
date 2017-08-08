@@ -5,7 +5,9 @@
  *      Author: yildbs
  */
 
-#include "Recognizer.h"
+#include <ylpr/Recognizer.h>
+#include <ycv/core/core.hpp>
+
 
 namespace ylpr{
 

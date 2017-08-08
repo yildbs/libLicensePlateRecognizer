@@ -8,6 +8,9 @@
 #ifndef RECOGNIZER_H_
 #define RECOGNIZER_H_
 
+#include <opencv2/core.hpp>
+#include <opencv2/imgproc.hpp>
+
 namespace ylpr{
 
 class Recognizer {
