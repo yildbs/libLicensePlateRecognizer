@@ -6,8 +6,6 @@
  */
 
 #include <ylpr/Recognizer.h>
-#include <ycv/core/core.hpp>
-
 
 namespace ylpr{
 
